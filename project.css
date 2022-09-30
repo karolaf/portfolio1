@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: azure;
+    font-family:Arial, Helvetica, sans-serif ;
+ }
+ .section1 {
+    display: flex;
+    height: 33vw;
+    background-color: #22d271;
+    font-family:Arial, Helvetica, sans-serif ;
+ }
+.section2 {
+    display: flex;
+    background-color: white;
+    width: 33vw;
+ }
+h1 {
+    text-align: center;
+    margin-top: 2px;
+    font-style: oblique
+    color: white;
+    font-family: fantasy
+}
+h2 {
+    text-align: center;
+    margin-bottom: 2px;
+    font-family: serif
+    color: antiquewhite;
+    font-size: 12px
+}
